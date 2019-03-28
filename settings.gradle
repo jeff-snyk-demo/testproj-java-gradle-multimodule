@@ -1,0 +1,6 @@
+rootProject.name = 'testproj-java-gradle-multimodule'
+include 'Snyk.SubModule1'
+include 'MainModule'
+include 'AnotherModule'
+include 'AnotherMainModule'
+
